@@ -1,1 +1,3 @@
+more test lines
+
 these scripts are made for raspbery pi, they may not work on other systems
